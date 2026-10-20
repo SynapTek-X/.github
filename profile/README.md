@@ -5,7 +5,7 @@
 
 <br>
 
-**SynapTek-X** is an engineering studio for small and medium-sized businesses in the Netherlands. Four crafts work under one roof — design, software, consulting and hardware — and every product is taken from the first brief all the way to the machine it runs on.
+**SynapTek-X** is an engineering studio based in the Netherlands and Istanbul, working with businesses worldwide. Four crafts work under one roof — design, software, consulting and hardware — and every product is taken from the first brief all the way to the machine it runs on.
 
 ### Four crafts, one team
 
@@ -41,4 +41,4 @@
 
 <br>
 
-<sub>Website launching soon · Netherlands · © 2026 SynapTek-X</sub>
+<sub>Website launching soon · Netherlands · Istanbul · Global · © 2026 SynapTek-X</sub>
