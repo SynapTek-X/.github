@@ -1,17 +1,17 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-  <img alt="SynapTek-X — Design · Software · Consulting · Hardware" src="./assets/banner-light.svg" width="100%">
+  <img alt="SynapTek-X — Consulting · Design · Software · Hardware" src="./assets/banner-light.svg" width="100%">
 </picture>
 
 <br>
 
-**SynapTek-X** is an engineering studio based in the Netherlands and Istanbul, working with businesses worldwide. Four crafts work under one roof — design, software, consulting and hardware — and every product is taken from the first brief all the way to the machine it runs on.
+**SynapTek-X** is an engineering studio based in the Netherlands and Istanbul, working with businesses worldwide. Four crafts work under one roof — consulting, design, software and hardware — and every product is taken from the first brief all the way to the machine it runs on.
 
 ### Four crafts, one team
 
-| Design | Software | Consulting | Hardware |
+| Consulting | Design | Software | Hardware |
 | :-- | :-- | :-- | :-- |
-| Brand, interface and motion with a premium finish — from 3D web experiences to on-screen menu choreography. | Web, desktop and AI systems built to production standards: typed end to end, tested and offline-first. | Strategy, process automation and Dutch compliance — BTW, AVG/GDPR, fiscal retention, CAO/WAB — turned into working software. | From screen to machine: POS terminals, thermal printers, self-service kiosks, signage players and device pairing. |
+| Strategy, process automation and Dutch compliance — BTW, AVG/GDPR, fiscal retention, CAO/WAB — turned into working software. | Brand, interface and motion with a premium finish — from 3D web experiences to on-screen menu choreography. | Web, desktop and AI systems built to production standards: typed end to end, tested and offline-first. | From screen to machine: POS terminals, thermal printers, self-service kiosks, signage players and device pairing. |
 
 ### Products
 
