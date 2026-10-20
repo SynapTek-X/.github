@@ -1,32 +1,42 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-  <img alt="SynapTek-X — Websites · AI workflows · Software built around you" src="./assets/banner-light.svg" width="100%">
+  <img alt="SynapTek-X — Design · Software · Consulting · Hardware" src="./assets/banner-light.svg" width="100%">
 </picture>
 
 <br>
 
-**SynapTek-X** is an engineering studio for small and medium-sized businesses in the Netherlands. We build the digital side of a business — the website your customers find, the workflows that give your team its hours back, and the software that fits how you actually operate. One team, from first brief to launch.
+**SynapTek-X** is an engineering studio for small and medium-sized businesses in the Netherlands. Four crafts work under one roof — design, software, consulting and hardware — and every product is taken from the first brief all the way to the machine it runs on.
 
-### What we do
+### Four crafts, one team
 
-| Websites & presence | AI workflows | Custom software |
+| Design | Software | Consulting | Hardware |
+| :-- | :-- | :-- | :-- |
+| Brand, interface and motion with a premium finish — from 3D web experiences to on-screen menu choreography. | Web, desktop and AI systems built to production standards: typed end to end, tested and offline-first. | Strategy, process automation and Dutch compliance — BTW, AVG/GDPR, fiscal retention, CAO/WAB — turned into working software. | From screen to machine: POS terminals, thermal printers, self-service kiosks, signage players and device pairing. |
+
+### Products
+
+| Product | What it does | Built with |
 | :-- | :-- | :-- |
-| Fast, accessible, multilingual sites (EN · NL · TR) built to turn visitors into customers. | Automations and AI agents that take repetitive work off your team’s plate — with a human in the loop. | Web, desktop and device software shaped around your operation — from checkout to the screens on your wall. |
+| **Kasa-X**<br><sub>Point of sale</sub> | Hospitality POS designed for Dutch compliance, with an offline order queue, hash-chained audit trail, self-service kiosk, QR menu and signage modules. | `NestJS` `React 19` `Electron` `Socket.IO` `Redis` |
+| **MenuCast-X**<br><sub>Digital menu boards</sub> | TV menu studio with editable compositions and motion recipes, approved publications, device pairing, scheduled playlists, offline playback and 4K USB export. | `React` `Vite` `Fastify` `Playwright` |
+| **OKuT Zenith**<br><sub>Cognitive reading</sub> | Desktop app for speed reading and cognitive training — RSVP and bionic reading engine, five-language synset sync, FSRS-5 memory engine and 18 eye-training labs. | `Electron` `React 19` `SQLite` |
+| **GeoRadar AI**<br><sub>AI search visibility</sub> | Generative engine optimization for local businesses — visibility audits across AI assistants, JSON-LD and `llms.txt` generation, weekly rank tracking. | `Next.js` `TypeScript` |
+| **Agency OS**<br><sub>Staffing automation</sub> | Platform for Dutch employment agencies — AI-assisted onboarding, PWA time registration and automated contract signing, aligned with CAO/WAB. | `Next.js` `PWA` |
 
-We also build our own products for hospitality — point of sale and digital menu boards. More soon.
+<sub>MenuCast-X is launching with its first customers · Kasa-X is in testing · OKuT Zenith, GeoRadar AI and Agency OS are in active development.</sub>
 
 ### How we work
 
-- **Evidence, not claims.** Nothing is “done” until a check you can see passes.
+- **Evidence, not claims.** Nothing is “done” until a check you can see passes — our products carry more than 1,800 automated test files.
 - **Security first.** Secrets never live in code, and every change is scanned before it ships.
-- **Private by design.** Client work stays private — always.
-- **End to end.** Strategy, design, engineering and launch under one roof.
+- **Private by design.** Client work and source code stay private — always.
+- **End to end.** One team from the first sketch to the device on the counter.
 
 ### Stack
 
 `TypeScript` `React` `Next.js` `Vite` `Tailwind CSS` `Motion` `Three.js`<br>
-`Node.js` `NestJS` `Fastify` `Prisma` `PostgreSQL` `Redis` `Socket.IO`<br>
-`Electron` `Tauri` `Rust` · `Claude` `ONNX Runtime` `MediaPipe`<br>
+`Node.js` `NestJS` `Fastify` `Prisma` `PostgreSQL` `Redis` `Socket.IO` `SQLite`<br>
+`Electron` `Tauri` `Rust` · `Claude` `ONNX Runtime` `MediaPipe` · `ESC/POS` `PWA`<br>
 `Vitest` `Playwright` `Zod` `Docker`
 
 <br>
